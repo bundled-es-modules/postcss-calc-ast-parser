@@ -1,6 +1,6 @@
 {
   "name": "@bundled-es-modules/postcss-calc-ast-parser",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "mirror of postcss-calc-ast-parser, bundled and exposed as ES module",
   "author": "Joren Broekema <joren.broekema@gmail.com>",
   "exports": {
@@ -17,8 +17,7 @@
   },
   "keywords": [],
   "files": [
-    "index-esm.js",
-    "index-cjs.cjs"
+    "dist"
   ],
   "license": "ISC",
   "dependencies": {
